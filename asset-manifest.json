@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.2f88716c.chunk.css",
-    "main.js": "/static/js/main.4a93c051.chunk.js",
-    "main.js.map": "/static/js/main.4a93c051.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0f3449c5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0f3449c5.js.map",
-    "static/js/2.571c83a2.chunk.js": "/static/js/2.571c83a2.chunk.js",
-    "static/js/2.571c83a2.chunk.js.map": "/static/js/2.571c83a2.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.3793042b7bf16eb3c7bd74b4617bbbe7.js": "/precache-manifest.3793042b7bf16eb3c7bd74b4617bbbe7.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.2f88716c.chunk.css.map": "/static/css/main.2f88716c.chunk.css.map",
-    "static/js/2.571c83a2.chunk.js.LICENSE.txt": "/static/js/2.571c83a2.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/Futura-Med.7c7a5a4f.woff",
-    "static/media/cattown.jpg": "/static/media/cattown.65b85a8d.jpg",
-    "static/media/daimo.jpg": "/static/media/daimo.b21245cd.jpg",
-    "static/media/fifa.jpg": "/static/media/fifa.14673edf.jpg"
+    "main.css": "/mysite/static/css/main.26c1fbcd.chunk.css",
+    "main.js": "/mysite/static/js/main.a80c35a4.chunk.js",
+    "main.js.map": "/mysite/static/js/main.a80c35a4.chunk.js.map",
+    "runtime-main.js": "/mysite/static/js/runtime-main.287d2899.js",
+    "runtime-main.js.map": "/mysite/static/js/runtime-main.287d2899.js.map",
+    "static/js/2.571c83a2.chunk.js": "/mysite/static/js/2.571c83a2.chunk.js",
+    "static/js/2.571c83a2.chunk.js.map": "/mysite/static/js/2.571c83a2.chunk.js.map",
+    "index.html": "/mysite/index.html",
+    "precache-manifest.54c22b4d289e3abef35b633aa5dc1576.js": "/mysite/precache-manifest.54c22b4d289e3abef35b633aa5dc1576.js",
+    "service-worker.js": "/mysite/service-worker.js",
+    "static/css/main.26c1fbcd.chunk.css.map": "/mysite/static/css/main.26c1fbcd.chunk.css.map",
+    "static/js/2.571c83a2.chunk.js.LICENSE.txt": "/mysite/static/js/2.571c83a2.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/mysite/static/media/Futura-Med.7c7a5a4f.woff",
+    "static/media/cattown.jpg": "/mysite/static/media/cattown.65b85a8d.jpg",
+    "static/media/daimo.jpg": "/mysite/static/media/daimo.b21245cd.jpg",
+    "static/media/fifa.jpg": "/mysite/static/media/fifa.14673edf.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0f3449c5.js",
+    "static/js/runtime-main.287d2899.js",
     "static/js/2.571c83a2.chunk.js",
-    "static/css/main.2f88716c.chunk.css",
-    "static/js/main.4a93c051.chunk.js"
+    "static/css/main.26c1fbcd.chunk.css",
+    "static/js/main.a80c35a4.chunk.js"
   ]
 }
